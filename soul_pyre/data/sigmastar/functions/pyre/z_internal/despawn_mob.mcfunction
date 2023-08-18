@@ -1,0 +1,1 @@
+execute unless data entity @s RaidId run tp @s ~ -10000 ~
