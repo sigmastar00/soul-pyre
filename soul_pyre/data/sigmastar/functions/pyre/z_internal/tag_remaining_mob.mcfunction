@@ -1,1 +1,1 @@
-data merge entity @s {Tags: ["sigmastar.pyre.existing_mob"]}
+tag @s add sigmastar.pyre.existing_mob

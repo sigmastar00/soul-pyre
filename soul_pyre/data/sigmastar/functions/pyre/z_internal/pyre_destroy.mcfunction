@@ -1,2 +1,2 @@
-playsound entity.blaze.death block @a
+playsound entity.blaze.death block @a ~ ~ ~
 kill @s 
