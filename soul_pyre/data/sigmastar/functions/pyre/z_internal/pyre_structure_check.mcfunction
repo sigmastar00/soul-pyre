@@ -1,0 +1,1 @@
+ execute if block ~1 ~-2 ~1 crying_obsidian if block ~-1 ~-2 ~1 crying_obsidian if block ~1 ~-2 ~-1 crying_obsidian if block ~-1 ~-2 ~-1 crying_obsidian run function sigmastar:pyre/z_internal/pyre_create

@@ -1,0 +1,2 @@
+execute if block ~ ~ ~ soul_fire if block ~ ~-1 ~ soul_sand if block ~-1 ~-2 ~-1 crying_obsidian if block ~-1 ~-2 ~1 crying_obsidian if block ~1 ~-2 ~-1 crying_obsidian if block ~1 ~-2 ~1 crying_obsidian run scoreboard players set @s _sigmastarpyrok 1
+execute if block ~ ~ ~ soul_fire if block ~ ~-1 ~ soul_soil if block ~-1 ~-2 ~-1 crying_obsidian if block ~-1 ~-2 ~1 crying_obsidian if block ~1 ~-2 ~-1 crying_obsidian if block ~1 ~-2 ~1 crying_obsidian run scoreboard players set @s _sigmastarpyrok 1
