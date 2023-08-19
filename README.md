@@ -2,7 +2,11 @@
 
 Soul Pyre is a survival-friendly datapack that adds a new buildable structure, the soul pyre.
 Active soul pyres prevent natural hostile mob spawns in a 64 block radius around them, letting you build without having to worry about lighting!
-It doesn't require any resource pack, and is available for Minecraft versions 1.16.5 and greater.
+
+# Compatibility
+
+This datapack doesn't require any resource pack, and is available for Minecraft versions 1.16.5 and greater.
+Since this datapack is compatible with Minecraft 1.16.5, if you are using a newer version of Minecraft you may see a warning that the pack is for an old version. However, this pack has been tested on versions up to 1.20.1 without issues, so it should work despite the warning.
 
 # Building
 
@@ -29,6 +33,10 @@ Once built, a pyre will stay active until any of the blocks it's made of get rem
 An active pyre will despawn mobs that spawn within 64 blocks of itself.
 However, mobs that have already been spawned, either during worldgen, or because they were outside the radius, are immune to this.
 This means you should still build walls around any areas you don't want hostiles walking into.
+
+If you want to see whether or not an area is within range of a pyre, you can hold a soul torch in your hand. The torch will react to the pyre and give off flame particles so long as you are within range.
+
+![Checking a pyre's range using a soul torch](images/soul-torch.png)
 
 Mobs that spawn as part of a raid are unaffected by pyres.
 
